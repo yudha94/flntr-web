@@ -198,6 +198,15 @@ p {
         flex-direction: column;
         text-align: left;
     }
+
+       nav {
+      height: 100px;
+    }
+
+    .logo-nav {
+      height: 30px;
+      width: 30px;
+    }
     
     .about-content h2 {
         font-size: 2rem;
@@ -653,4 +662,5 @@ p {
 
 @media (max-width: 345px) {
     nav ul li a {font-size: 13px;}
+
 }
