@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ganti URL di bawah dengan alamat asli sitemap Anda
+Sitemap: https://yudha94.github.io/flntr-web/sitemap.xml
